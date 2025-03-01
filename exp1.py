@@ -8,6 +8,12 @@ emoji_dict = {
     "candy": "🍬",
     "ice_cream": "🍨",
     "1st_place_medal": "🥇",
+    "fire":"🔥",
+    "check mark":"✅",
+    "cloud":"☁️",
+    "popcorn":"🍿",
+    "clapping hands":"👏",
+
     # Add more emoji aliases and their corresponding emojis here as needed
 }
 
