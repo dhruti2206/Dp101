@@ -5,6 +5,7 @@ def print_cal(year):
         print(cal.formatmonth(year,month))
 
 if __name__ == "__main__":
+    #get the year from the user
     try:
         year=int(input("Enter the year: "))
         print_cal(year)
